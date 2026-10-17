@@ -4,7 +4,7 @@
   "main": "index.js",
   "scripts": { "start": "node index.js" },
   "dependencies": {
-    "fca-unofficial": "latest",
+    "@dongdev/fca-unofficial": "latest",
     "express": "^4.19.2"
   }
 }
