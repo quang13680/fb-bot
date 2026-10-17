@@ -1,0 +1,10 @@
+{
+  "name": "fb-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": { "start": "node index.js" },
+  "dependencies": {
+    "fca-unofficial": "latest",
+    "express": "^4.19.2"
+  }
+}
